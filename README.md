@@ -33,6 +33,6 @@ initAccordion({
 ### Объект с опциями:
 
 * alwaysOneItemActive (Boolean) Всегда есть активный элемент --- DEFAULT: true
-* firstActiveItem (Number[]) Если несколько аккордеонов в массиве по порядку указываются номера активных item у каждого аккордеона, отсчёт с 0 --- DEFAULT: [0, 0, 0] 
+* firstActiveItem (Number[]) Если несколько аккордеонов в массиве по порядку указываются номера активных item у каждого аккордеона, отсчёт с 0 --- DEFAULT: [0] 
 * animationSpeed (Number) скорость анимации в секундах --- DEFAULT: 0.3
 * activeClass (String) имя активного класса, который ставится на активный item --- DEFAULT: '.accordion__item--active' Нужен например для кастомной анимации стрелок
