@@ -1,7 +1,7 @@
 # plugins-accordion Плагин для аккордеона с плавным появлением элементов
 
 ## Инструкция:
-### Структура HTML: Главное, чтобы были **data**, плагин не привязывается к классам или id
+### Структура HTML: Главное, чтобы были ***data***, плагин не привязывается к классам или id
 ```
 <ul class="accordion" data-accordion="wrapper">
             <li class="accordion__item" data-accordion="item">
